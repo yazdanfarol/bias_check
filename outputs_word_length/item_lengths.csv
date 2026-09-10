@@ -1,0 +1,301 @@
+﻿id;konto;text;skill;branche;word_count;character_count
+SP-001;Surfers Pottery;Fürs Töpfern hätte ich gern einen Termin.;calendar;Handwerk / Töpferei;7;41
+SP-002;Surfers Pottery;Den Töpfertermin verschieben wir als Idee auf später.;none;Handwerk / Töpferei;8;53
+SP-003;Surfers Pottery;Ich würde das gern vor Ort besprechen. Können wir dafür einen Termin festlegen?;calendar;Handwerk / Töpferei;13;79
+SP-004;Surfers Pottery;Morgen Nachmittag meinte ich meine private Verabredung. Bei Ihnen brauche ich nichts.;none;Handwerk / Töpferei;12;85
+SP-005;Surfers Pottery;Ich habe morgen nach der Arbeit Zeit und würde gern zu Ihnen kommen. Schauen Sie mal, ob zwischen vier und sechs noch etwas frei ist.;calendar;Handwerk / Töpferei;25;133
+SP-006;Surfers Pottery;Ich kann morgen erst nachmittags. Würden Sie nachsehen, ob dann ein Termin zum Töpfern frei ist?;calendar;Handwerk / Töpferei;16;96
+SP-007;Surfers Pottery;Samstag oder Sonntag könnte ich kommen. Welche freien Termine finden Sie?;calendar;Handwerk / Töpferei;11;73
+SP-008;Surfers Pottery;Wann könnte ich am Wochenende zum Töpfern vorbeilaufen? Bitte prüfen Sie freie Termine.;calendar;Handwerk / Töpferei;13;87
+SP-009;Surfers Pottery;Am Wochenende wollte ich töpfern, aber inzwischen hat sich Besuch angekündigt. Deshalb möchte ich keinen Termin mehr suchen lassen. Die Planung für einen späteren Besuch übernehme ich erst einmal selbst.;none;Handwerk / Töpferei;30;203
+SP-010;Surfers Pottery;Meine Freundin würde mitmachen. Wir möchten gemeinsam töpfern und dafür einen Termin buchen, haben aber noch keinen bestimmten Tag im Kopf.;calendar;Handwerk / Töpferei;21;139
+SP-011;Surfers Pottery;Eine gemeinsame Buchung ist noch nicht beschlossen.;none;Handwerk / Töpferei;7;51
+SP-012;Surfers Pottery;Meine Freundin und ich hätten voll Lust drauf. Mit dem Datum sind wir flexibel, aber es soll derselbe Termin sein. Helfen Sie uns bei der Buchung?;calendar;Handwerk / Töpferei;26;146
+SP-013;Surfers Pottery;Mittwoch ab drei ziehe ich zurück. Suchen Sie dafür bitte keinen Termin.;none;Handwerk / Töpferei;12;72
+SP-014;Surfers Pottery;Mittwoch nach drei hätte ich Zeit zum Töpfern. Prüfen Sie bitte die freien Termine.;calendar;Handwerk / Töpferei;14;83
+SP-015;Surfers Pottery;Nächsten Mittwoch ab drei: Haben Sie da etwas frei?;calendar;Handwerk / Töpferei;9;51
+SP-016;Surfers Pottery;Danke, wie das Töpfern abläuft, habe ich schon gelesen. Mir fehlt nur noch ein fester Termin. Den würde ich gern gleich mit Ihnen vereinbaren.;calendar;Handwerk / Töpferei;24;142
+SP-017;Surfers Pottery;Über das Töpfern habe ich mich schon informiert. Jetzt würde ich gern den Tag für den Kurs auswählen.;calendar;Handwerk / Töpferei;18;101
+SP-018;Surfers Pottery;Ich habe mir zwar schon alles zum Töpfern durchgelesen, bin mit meiner eigenen Planung aber noch nicht fertig. Einen Termin möchte ich heute deshalb weder suchen noch buchen lassen.;none;Handwerk / Töpferei;29;181
+SP-019;Surfers Pottery;Was wäre Ihr nächster freier Termin zum Töpfern?;calendar;Handwerk / Töpferei;8;48
+SP-020;Surfers Pottery;Mein Urlaub entfällt. Die Terminsuche damit auch.;none;Handwerk / Töpferei;7;49
+SP-021;Surfers Pottery;Mein Urlaub beginnt bald, deshalb wäre mir ein früher Termin recht. Könnten Sie nach der nächsten freien Möglichkeit schauen? Die genaue Uhrzeit ist mir nicht wichtig.;calendar;Handwerk / Töpferei;26;167
+SP-022;Surfers Pottery;Einen Moment, ich lese den Preis der Espressotasse gerade selbst auf der Liste.;none;Handwerk / Töpferei;13;79
+SP-023;Surfers Pottery;In Ihrer Liste habe ich eine sandfarbene, handgedrehte Espressotasse entdeckt. Bevor ich mich entscheide, würde ich gern den Stückpreis wissen. Eine Bestellung möchte ich damit noch nicht aufgeben.;knowledge-base;Handwerk / Töpferei;28;197
+SP-024;Surfers Pottery;Die handgedrehte Espressotasse in Sand interessiert mich. Welchen Preis hat sie pro Stück?;knowledge-base;Handwerk / Töpferei;13;90
+SP-025;Surfers Pottery;Wie viel kostet die große, anthrazitfarbene Teekanne mit 1,2 Litern Inhalt?;knowledge-base;Handwerk / Töpferei;12;75
+SP-026;Surfers Pottery;Die große Teekanne mit 1,2 Litern: Wie teuer ist die?;knowledge-base;Handwerk / Töpferei;11;53
+SP-027;Surfers Pottery;Die große Teekanne ist mir doch zu groß. Den Preis brauche ich nicht mehr, und bestellen möchte ich auch nichts. Lassen wir die Anfrage bitte fallen.;none;Handwerk / Töpferei;26;149
+SP-028;Surfers Pottery;Welche Farbe hat Ihre Glasur Deep Water?;knowledge-base;Handwerk / Töpferei;7;40
+SP-029;Surfers Pottery;Deep Water gefällt mir, weitere Angaben brauche ich nicht.;none;Handwerk / Töpferei;9;58
+SP-030;Surfers Pottery;Bei den Glasuren bin ich über den Namen Deep Water gestolpert. Daraus kann ich mir den Farbton nicht recht vorstellen. Beschreiben Sie mir bitte die Farbe und die Oberfläche.;knowledge-base;Handwerk / Töpferei;29;174
+SP-031;Surfers Pottery;Das Moonlight-Porzellan-Angebot klingt interessant, aber ehrlich gesagt hab ich grad sowieso keine Zeit für sowas.;none;Handwerk / Töpferei;15;114
+SP-032;Surfers Pottery;Das Moonlight-Porzellan klingt interessant. Ich habe bisher keinen Ihrer Drehkurse absolviert. Gibt es dafür eine Voraussetzung, oder kann ich dieses Material gleich bei meinem ersten Besuch verwenden?;knowledge-base;Handwerk / Töpferei;27;201
+SP-033;Surfers Pottery;Bei Moonlight-Porzellan: Muss ich dafür schon einen bestimmten Drehkurs bei Ihnen absolviert haben?;knowledge-base;Handwerk / Töpferei;13;99
+SP-034;Surfers Pottery;Sind bei der Tageskarte fürs offene Studio Werkzeug und Brände schon im Preis enthalten?;knowledge-base;Handwerk / Töpferei;14;88
+SP-035;Surfers Pottery;Was beinhaltet die Tageskarte fürs offene Studio?;knowledge-base;Handwerk / Töpferei;7;49
+SP-036;Surfers Pottery;Die Tageskarte ist vorerst kein Thema mehr für mich.;none;Handwerk / Töpferei;9;52
+SP-037;Surfers Pottery;Wie viele Leute passen an die Big-Wave-Gruppentafel?;knowledge-base;Handwerk / Töpferei;7;52
+SP-038;Surfers Pottery;Unsere Gruppe kommt nun doch nicht zustande. Wie viele Plätze Big Wave hat, brauche ich deshalb nicht mehr zu wissen. Eine Buchung war ohnehin noch nicht geplant.;none;Handwerk / Töpferei;27;162
+SP-039;Surfers Pottery;Wir überlegen, ob Ihre Gruppentafel für uns groß genug wäre. Wie viele Plätze hat Big Wave, und ab welcher Personenzahl kann man sie nutzen?;knowledge-base;Handwerk / Töpferei;24;140
+SP-040;Surfers Pottery;Die Tür ist offen, die Weiterleitung hat sich erledigt.;none;Handwerk / Töpferei;9;55
+SP-041;Surfers Pottery;Wir stehen vor dem Studio, unser Kurs soll gleich anfangen, und niemand öffnet. Bitte holen Sie jemanden vor Ort ans Telefon, damit wir jetzt hineinkommen können.;forwarding;Handwerk / Töpferei;26;162
+SP-042;Surfers Pottery;Wir kommen nicht rein, Kursstart jetzt. Ich will mit Andreas sprechen.;forwarding;Handwerk / Töpferei;11;70
+SP-043;Surfers Pottery;Unsere Kursleitung ist mitten im Kurs ausgefallen. Wir brauchen sofort jemanden, der jetzt die Betreuung organisiert.;forwarding;Handwerk / Töpferei;16;117
+SP-044;Surfers Pottery;Mitten im laufenden Kurs ist unsere Dozentin kurzfristig ins Krankenhaus gemusst. Die Gruppe steht jetzt ohne Anleitung im Atelier.;forwarding;Handwerk / Töpferei;19;131
+SP-045;Surfers Pottery;Die Kursleitung ist wieder da, und alle arbeiten weiter. ;none;Handwerk / Töpferei;9;57
+SP-046;Surfers Pottery;Doppelbelegung beim Kursstart! Bitte sofort jemanden durchstellen.;forwarding;Handwerk / Töpferei;7;66
+SP-047;Surfers Pottery;Wegen des Raums ist alles geklärt. Wir sitzen am richtigen Tisch, eine Verbindung ist unnötig.;none;Handwerk / Töpferei;15;94
+SP-048;Surfers Pottery;Für unseren Gruppenbesuch ist gerade kein Platz, obwohl wir angemeldet sind. Wir brauchen eine Lösung schnell.;forwarding;Handwerk / Töpferei;16;110
+SP-049;Surfers Pottery;Die Kartons wurden rechtzeitig getauscht. Alles geklärt.;none;Handwerk / Töpferei;7;56
+SP-050;Surfers Pottery;Der Fahrer nimmt gerade die falsche Keramik mit. Wie kann ich ihn erreichen?;forwarding;Handwerk / Töpferei;13;76
+SP-051;Surfers Pottery;Unser Spediteur lädt gerade die Ware für einen anderen Kunden auf den LKW. Können Sie mich sofort mit dem Versand verbinden?;forwarding;Handwerk / Töpferei;21;124
+SP-052;Surfers Pottery;Mit dem Material stehe ich vor Ihrer verschlossenen Zufahrt und kann nicht länger warten. Meine nächste Lieferung ist schon überfällig.;forwarding;Handwerk / Töpferei;20;135
+SP-053;Surfers Pottery;Anlieferung blockiert, Zufahrt verschlossen. Bitte sofort jemanden verbinden.;forwarding;Handwerk / Töpferei;8;77
+SP-054;Surfers Pottery;Die Zufahrt ist offen und das Material abgeladen. Wegen der Lieferung ist alles erledigt.;none;Handwerk / Töpferei;14;89
+SP-055;Surfers Pottery;Unsere Gruppe wartet, aber nichts ist vorbereitet. Der gebuchte Kurs soll jetzt starten.;forwarding;Handwerk / Töpferei;13;88
+SP-056;Surfers Pottery;Jetzt ist alles vorbereitet, unsere Gruppe sitzt bereits am Tisch und der Kurs beginnt.;none;Handwerk / Töpferei;14;87
+SP-057;Surfers Pottery;Die Gruppe ist da, niemand weiß von unserem Kurs, und am Empfang ist gerade keiner zu sehen, der sich darum kümmern könnte.;forwarding;Handwerk / Töpferei;22;123
+SP-058;Surfers Pottery;Die Adresse wurde rechtzeitig korrigiert. Das Paket ist richtig beschriftet, weitere Rücksprache ist unnötig.;none;Handwerk / Töpferei;14;109
+SP-059;Surfers Pottery;Auf dem Paket, das Ihr Team gerade dem Kurier geben will, steht meine alte Adresse. Der Kurier wartet schon. Bitte verbinden Sie mich sofort, bevor das Paket übergeben wird.;forwarding;Handwerk / Töpferei;29;173
+SP-060;Surfers Pottery;Falsche Bestellung geht raus. Dringend weiterleiten;forwarding;Handwerk / Töpferei;6;51
+SP-061;Surfers Pottery;Im Studio läuft Wasser aus dem Waschbecken. Wir bekommen es nicht gestoppt, kann mich jemand kontaktieren?;forwarding;Handwerk / Töpferei;16;106
+SP-062;Surfers Pottery;Unser Slot für den Brand nächste Woche überschneidet sich anscheinend mit einem anderen Kundentermin, das wollte der Werkstattleiter eigentlich selbst mit uns klären. Können Sie mich mit ihm verbinden?;forwarding;Handwerk / Töpferei;29;201
+SP-063;Surfers Pottery;Das Wasser läuft nicht mehr aus. Ihr Team hat den Hahn bereits repariert und alles aufgewischt. Ich hatte den Anruf vorher begonnen, brauche jetzt aber keine Hilfe mehr.;none;Handwerk / Töpferei;28;169
+AM-001;Amazon Business;Unsere Teamleitung muss größere Einkäufe freigeben. Bietet Amazon Business dafür einen Genehmigungsworkflow?;knowledge-base;Beschaffung / E-Commerce;12;108
+AM-002;Amazon Business;Den Genehmigungsablauf hat mir unsere Teamleitung bereits erklärt. Ich habe alles verstanden, danke.;none;Beschaffung / E-Commerce;13;100
+AM-003;Amazon Business;Unsere Mitarbeitenden sollen einkaufen können, aber größere Bestellungen müssten erst von der Teamleitung freigegeben werden. Unterstützt Amazon Business dafür Genehmigungsabläufe? Ich möchte nur wissen, welche Möglichkeiten es grundsätzlich gibt.;knowledge-base;Beschaffung / E-Commerce;29;247
+AM-004;Amazon Business;Bezüglich der Systemanbindung . Unsere IT hat mir die benötigten Informationen bereits geschickt, und ich muss das erst intern lesen. Sie brauchen dafür nichts nachzuschlagen.;none;Beschaffung / E-Commerce;24;175
+AM-005;Amazon Business;Wir nutzen schon ein eigenes Einkaufssystem. Welche Möglichkeiten gibt es, Amazon Business daran anzubinden?;knowledge-base;Beschaffung / E-Commerce;14;108
+AM-006;Amazon Business;Kann Amazon Business an unser Einkaufssystem angebunden werden?;knowledge-base;Beschaffung / E-Commerce;8;63
+AM-007;Amazon Business;Bei uns gibt es feste Vorgaben für Zahlungen. Deshalb möchte ich vor der Anmeldung wissen, welche Zahlungsarten bei Amazon Business angeboten werden.;knowledge-base;Beschaffung / E-Commerce;22;149
+AM-008;Amazon Business;Welche Zahlungsarten bietet ihr Geschäftskunden an?;knowledge-base;Beschaffung / E-Commerce;6;51
+AM-009;Amazon Business;Zahlungsarten muss ich gerade nicht mehr vergleichen.;none;Beschaffung / E-Commerce;7;53
+AM-010;Amazon Business;Ich würde die Einkäufe unserer Firma gern auswerten. Welche Berichte stehen dafür zur Verfügung?;knowledge-base;Beschaffung / E-Commerce;14;96
+AM-011;Amazon Business;Die Berichte hat mir meine Kollegin gerade gezeigt.;none;Beschaffung / E-Commerce;8;51
+AM-012;Amazon Business;Wir möchten unsere Unternehmenseinkäufe regelmäßig auswerten, ohne jede einzelne Bestellung manuell zusammenzutragen. Welche Berichte stellt Amazon Business dafür bereit? Mir geht es um eine allgemeine Übersicht über die Funktionen.;knowledge-base;Beschaffung / E-Commerce;29;232
+EC-001;E-Commerce;Was lässt sich im Geschäftskonto einstellen?;knowledge-base;Beschaffung / E-Commerce;6;44
+EC-002;E-Commerce;Zu den Kontoeinstellungen habe ich keine offene Frage mehr.;none;Beschaffung / E-Commerce;9;59
+EC-003;E-Commerce;Wenn mehrere Personen unser Geschäftskonto verwenden: Welche Einstellungen bietet ihr für die Kontoverwaltung an?;knowledge-base;Beschaffung / E-Commerce;14;113
+EC-004;E-Commerce;Die App-Frage ist erledigt, ich habe die Beschreibung gelesen. Ich richte gerade noch meine eigenen Notizen und möchte anschließend über etwas anderes sprechen. Nachschlagen ist dafür nicht nötig.;none;Beschaffung / E-Commerce;28;196
+EC-005;E-Commerce;Ich erledige vieles vom Handy aus und bin selten am Schreibtisch. Kann ich Amazon Business über eine mobile App nutzen, oder ist dafür immer die normale Website erforderlich?;knowledge-base;Beschaffung / E-Commerce;28;174
+EC-006;E-Commerce;Gibt es für unterwegs eine mobile App?;knowledge-base;Beschaffung / E-Commerce;7;38
+EC-007;E-Commerce;Unser Team hat noch nie mit Amazon Business gearbeitet. Gibt es für den Einstieg Schulungen oder eine Einführung, damit sich nicht jeder alles selbst zusammensuchen muss? Das würde ich gern wissen.;knowledge-base;Beschaffung / E-Commerce;31;197
+EC-008;E-Commerce;Unser Team steigt neu ein. Gibt es Schulungen oder Unterstützung beim Onboarding für Amazon Business?;knowledge-base;Beschaffung / E-Commerce;15;101
+EC-009;E-Commerce;Die Informationen zur Einführung sind bei uns angekommen. Ich lese sie erst einmal in Ruhe durch.;none;Beschaffung / E-Commerce;16;97
+EC-010;E-Commerce;Ist das Angebot auch für kleine Firmen gedacht?;knowledge-base;Beschaffung / E-Commerce;8;47
+EC-011;E-Commerce;Ob die Plattform für unsere kleine Firma passt, haben wir schon geklärt;none;Beschaffung / E-Commerce;12;71
+EC-012;E-Commerce;Wir sind eine kleine Firma ohne Einkaufsabteilung. Passt Amazon Business grundsätzlich auch zu solchen Unternehmen?;knowledge-base;Beschaffung / E-Commerce;15;115
+HH-001;Hausheld (Kopie);Woraus besteht ein intelligentes Messsystem?;knowledge-base;Smart Metering;5;44
+HH-002;Hausheld (Kopie);Die Bestandteile sind mir klar, danke.;none;Smart Metering;6;38
+HH-003;Hausheld (Kopie);Ein digitaler Zähler und ein intelligentes Messsystem sind offenbar nicht ganz dasselbe. Welche Bestandteile gehören zum intelligenten Messsystem? Melde keinen Defekt an meinem Gerät.;knowledge-base;Smart Metering;24;183
+HH-004;Hausheld (Kopie);Ich habe das nachgelesen. Das Portal jetzt funktioniert.;none;Smart Metering;8;56
+HH-005;Hausheld (Kopie);Ich möchte verstehen, wie aktuell die angezeigten Verbrauchsdaten sind. In welchen Abständen werden sie im Portal erneuert? Bei mir liegt keine Störung vor, es geht nur um die allgemeine Funktionsweise.;knowledge-base;Smart Metering;30;202
+HH-006;Hausheld (Kopie);Ich möchte die Anzeige im Portal verstehen. In welchen Abständen werden die Verbrauchswerte aktualisiert?;knowledge-base;Smart Metering;14;105
+HH-007;Hausheld (Kopie);Bisher melde ich den Zählerstand jedes Jahr selbst. Übernimmt das intelligente Messsystem diese Übermittlung automatisch?;knowledge-base;Smart Metering;15;121
+HH-008;Hausheld (Kopie);Muss ich den intelligenten Zähler noch selbst ablesen?;knowledge-base;Smart Metering;8;54
+HH-009;Hausheld (Kopie);Das mit dem Ablesen ist jetzt klar.;none;Smart Metering;7;35
+HH-010;Hausheld (Kopie);Wann kommen nach dem Zählerwechsel die Portalzugangsdaten?;knowledge-base;Smart Metering;7;58
+HH-011;Hausheld (Kopie);Den Ablauf bis zu den Zugangsdaten habe ich verstanden. Es ist nichts überfällig.;none;Smart Metering;13;81
+HH-012;Hausheld (Kopie);Mein Zähler soll bald ausgetauscht werden. Bekomme ich dann gleich die Zugangsdaten fürs Energiecockpit, oder muss vorher noch etwas gemacht werden?;knowledge-base;Smart Metering;21;148
+HH-013;Hausheld (Kopie);Moment, ich schaue gerade, was Sie alles anbieten.“;none;Smart Metering;8;51
+HH-014;Hausheld (Kopie);Ich höre den Namen Hausheld zum ersten Mal. Können Sie mir erklären, welche Dienstleistungen Ihr Unternehmen rund um intelligente Stromzähler übernimmt? Es geht um eine allgemeine Einordnung, nicht um meine Rechnung.;knowledge-base;Smart Metering;31;216
+HH-015;Hausheld (Kopie);Welche Dienstleistungen übernimmt Hausheld rund um intelligente Zähler? Ich kenne Ihren Aufgabenbereich bisher nicht.;knowledge-base;Smart Metering;14;117
+HH-016;Hausheld (Kopie);Mich interessiert der Datenschutz: Wie werden meine Daten geschützt, wenn der Zähler sie überträgt?;knowledge-base;Smart Metering;14;99
+HH-017;Hausheld (Kopie);Wie werden die übertragenen Messdaten geschützt?;knowledge-base;Smart Metering;6;48
+HH-018;Hausheld (Kopie);Ah, da steht ja schon was zum Datenschutz. Das lese ich mir erst mal durch.;none;Smart Metering;15;75
+HH-019;Hausheld (Kopie);Unter welcher Anschrift ist Hausheld zu finden?;knowledge-base;Smart Metering;7;47
+HH-020;Hausheld (Kopie);Die Anschrift steht schon in meinen Unterlagen.;none;Smart Metering;7;47
+HH-021;Hausheld (Kopie);Ich ergänze gerade unsere Kontaktunterlagen. Welche Anschrift soll ich für Hausheld eintragen?;knowledge-base;Smart Metering;12;94
+HH-022;Hausheld (Kopie);Die Sache mit dem Wasseranschluss hat sich erledigt.;none;Smart Metering;8;52
+HH-023;Hausheld (Kopie);Mit dem Stromzähler hat mein Anliegen nichts zu tun. Ich brauche jemanden wegen unseres Wasseranschlusses.;forwarding;Smart Metering;15;106
+HH-024;Hausheld (Kopie);Wegen meines Wasseranschlusses bitte zu den Stadtwerken verbinden.;forwarding;Smart Metering;8;66
+HH-025;Hausheld (Kopie);Mein Fernwärmeanschluss ist der Anlass. Verbinden Sie mich bitte mit der zuständigen Stelle bei den Stadtwerken.;forwarding;Smart Metering;16;112
+HH-026;Hausheld (Kopie);Für meinen Fernwärmeanschluss brauche ich die Stadtwerke. Bitte durchstellen.;forwarding;Smart Metering;9;77
+HH-027;Hausheld (Kopie);Wegen Fernwärme wähle ich die Stadtwerkenummer selbst.;none;Smart Metering;7;54
+HH-028;Hausheld (Kopie);Zum Gasanschluss bitte bei den Stadtwerken durchstellen.;forwarding;Smart Metering;7;56
+HH-029;Hausheld (Kopie);Die Stadtwerke haben den Gasanschluss bereits mit mir geklärt. ;none;Smart Metering;9;63
+HH-030;Hausheld (Kopie);Ich bin mit einer Frage zum Gasanschluss hier gelandet. Sie kümmern sich wohl um Stromzähler. Könnten Sie mich stattdessen zu den Stadtwerken durchstellen? ;forwarding;Smart Metering;23;156
+HH-031;Hausheld (Kopie);Die Nachzahlung war richtig, ich hatte mich verlesen.;none;Smart Metering;8;53
+HH-032;Hausheld (Kopie);Ich verstehe nicht, warum ich so viel nachzahlen soll. Können Sie mich mit der Abrechnung der Stadtwerke verbinden?;forwarding;Smart Metering;18;115
+HH-033;Hausheld (Kopie);Die Nachzahlung auf meiner Stromrechnung stimmt nicht. Bitte zur zuständigen Stelle verbinden.;forwarding;Smart Metering;12;94
+HH-034;Hausheld (Kopie);Mein monatlicher Abschlag soll angepasst werden. Verbinden Sie mich bitte mit dem Stadtwerk.;forwarding;Smart Metering;13;92
+HH-035;Hausheld (Kopie);Meinen Abschlag ändern, bitte zu den Stadtwerken verbinden.;forwarding;Smart Metering;8;59
+HH-036;Hausheld (Kopie);Am Abschlag soll nun doch nichts geändert werden.;none;Smart Metering;8;49
+HH-037;Hausheld (Kopie);Meinen Stromvertrag möchte ich ändern. Bitte verbinden Sie mich.;forwarding;Smart Metering;9;64
+HH-038;Hausheld (Kopie);Ah, die Bestätigung vom Stadtwerk ist gerade gekommen. Dann hat sich das mit der Vertragsänderung erledigt.;none;Smart Metering;16;107
+HH-039;Hausheld (Kopie);Ich würde gern meinen Stromvertrag ändern. Können Sie mich zu den Stadtwerken durchstellen?;forwarding;Smart Metering;13;91
+HH-040;Hausheld (Kopie);Wir lassen unsere Stromzähler doch getrennt. Keine Weiterleitung nötig.;none;Smart Metering;9;71
+HH-041;Hausheld (Kopie);Wir haben mehrere Stromzähler im Haus und würden die gern zusammenlegen lassen. Können Sie mich dafür mit jemandem bei den Stadtwerken verbinden?;forwarding;Smart Metering;22;145
+HH-042;Hausheld (Kopie);Zwei Stromzähler sollen zusammengelegt werden. Bitte zum Stadtwerk durchstellen.;forwarding;Smart Metering;9;80
+HH-043;Hausheld (Kopie);Wir möchten das Messkonzept für unser Haus ändern. Können Sie mich mit jemandem bei den Stadtwerken verbinden, der dafür zuständig ist?;forwarding;Smart Metering;21;135
+HH-044;Hausheld (Kopie);Ich brauche eine Änderung des Messkonzepts. Bitte verbinden.;forwarding;Smart Metering;8;60
+HH-045;Hausheld (Kopie);Am Messkonzept wird nichts geändert. Wir hatten das diskutiert, haben uns aber dagegen entschieden.;none;Smart Metering;14;99
+HH-046;Hausheld (Kopie);Bei mir ist der Strom ausgefallen.;forwarding;Smart Metering;6;34
+HH-047;Hausheld (Kopie);Ah, der Strom ist wieder da. Jetzt läuft alles wieder.;none;Smart Metering;10;54
+HH-048;Hausheld (Kopie);Seit eben haben wir im ganzen Haus keinen Strom mehr. Das ist eine aktuelle Störung, die ich melden möchte. Können Sie mich dafür direkt mit dem Kundenservice verbinden?;forwarding;Smart Metering;28;169
+HH-049;Hausheld (Kopie);Ach, das Display ist doch an. Ich hatte nur zu schnell hingeschaut.;none;Smart Metering;12;67
+HH-050;Hausheld (Kopie);Seit heute bleibt das Display am Zähler dunkel, da tut sich gar nichts mehr. Können Sie mich mit jemandem verbinden, der mir helfen kann?;forwarding;Smart Metering;24;137
+HH-051;Hausheld (Kopie);Unser Zähler funktioniert nicht mehr.;forwarding;Smart Metering;5;37
+HH-052;Hausheld (Kopie);Ich habe mir für den Zählerwechsel extra freigenommen, und dann kam einfach keiner. Darüber würde ich gern mit Ihrem Kundenservice sprechen.;forwarding;Smart Metering;21;140
+HH-053;Hausheld (Kopie);Zum Zählerwechsel ist niemand gekommen. Können Sie mich bitte direkt mit Ihrem Kundenservice verbinden?;forwarding;Smart Metering;14;103
+HH-054;Hausheld (Kopie);Meine Beschwerde zum verpassten Termin hat sich erledigt.;none;Smart Metering;8;57
+HH-055;Hausheld (Kopie);Mit Ihrem Kundenservice möchte ich sprechen.;forwarding;Smart Metering;6;44
+HH-056;Hausheld (Kopie);Ich wollte Ihren Kundenservice sprechen, habe es mir aber anders überlegt. Dann brauche ich den Kundenservice doch nicht mehr.;none;Smart Metering;19;126
+HH-057;Hausheld (Kopie);Es betrifft den Ablauf meines Zählerwechsels und keine Rechnung oder andere Versorgungssparte. Ich möchte darüber mit einem Menschen aus Ihrem Kundenservice sprechen. Können Sie mich bitte verbinden?;forwarding;Smart Metering;27;199
+PD-001;Pedalino Fahrradhersteller – Bestellung aufnehmen;Mein Kind möchte ein Laufrad. Ab welchem Alter sind eure Laufräder grundsätzlich geeignet?;knowledge-base;Fahrradhandel;13;90
+PD-002;Pedalino Fahrradhersteller – Bestellung aufnehmen;Die Altersangabe zum Laufrad habe ich gefunden. Ich muss kurz überlegen, einen Augenblick bitte.;none;Fahrradhandel;14;96
+PD-003;Pedalino Fahrradhersteller – Bestellung aufnehmen;Mein Kind interessiert sich schon für Laufräder. Für welches Einstiegsalter sind eure Modelle grundsätzlich gedacht? Ich möchte mich zunächst orientieren.;knowledge-base;Fahrradhandel;20;154
+PD-004;Pedalino Fahrradhersteller – Bestellung aufnehmen;Welche Größe wir brauchen, wissen wir jetzt. Wir überlegen noch, ob wir das Rad kaufen.;none;Fahrradhandel;15;87
+PD-005;Pedalino Fahrradhersteller – Bestellung aufnehmen;Woran orientiere ich mich bei der Auswahl der Fahrradgröße für mein wachsendes Kind?;knowledge-base;Fahrradhandel;13;84
+PD-006;Pedalino Fahrradhersteller – Bestellung aufnehmen;Wie finde ich die passende Fahrradgröße?;knowledge-base;Fahrradhandel;6;40
+PD-007;Pedalino Fahrradhersteller – Bestellung aufnehmen;Bevor ich mich entscheide, würde ich gern wissen, wie lange eine Lieferung normalerweise dauert.;knowledge-base;Fahrradhandel;14;96
+PD-008;Pedalino Fahrradhersteller – Bestellung aufnehmen;Mit welcher Lieferzeit muss man rechnen?;knowledge-base;Fahrradhandel;6;40
+PD-009;Pedalino Fahrradhersteller – Bestellung aufnehmen;Die Lieferzeit ist mir schon bekannt.;none;Fahrradhandel;6;37
+PD-010;Pedalino Fahrradhersteller – Bestellung aufnehmen;Wie funktioniert bei euch eine Rückgabe?;knowledge-base;Fahrradhandel;6;40
+PD-011;Pedalino Fahrradhersteller – Bestellung aufnehmen;Die Rückgaberegeln sind mir inzwischen klar. Eine Retoure will ich erstmal nicht anmelden.;none;Fahrradhandel;13;90
+PD-012;Pedalino Fahrradhersteller – Bestellung aufnehmen;Falls ein Fahrrad doch nicht passt, wie funktioniert bei euch die Rückgabe? ;knowledge-base;Fahrradhandel;12;76
+PD-013;Pedalino Fahrradhersteller – Bestellung aufnehmen;Wie wir bezahlen können, wissen wir schon. Wir wissen nicht, ob wir bestellen wollen.;none;Fahrradhandel;14;85
+PD-014;Pedalino Fahrradhersteller – Bestellung aufnehmen;Welche Zahlungsarten bietet ihr an, und gehört eine Finanzierung auch zu den Möglichkeiten?;knowledge-base;Fahrradhandel;13;91
+PD-015;Pedalino Fahrradhersteller – Bestellung aufnehmen;Welche Möglichkeiten gibt es, ein Rad zu bezahlen?;knowledge-base;Fahrradhandel;8;50
+ZE-001;ZEG – Test Agent;Können wir einen Termin bei Ihnen ausmachen?;calendar;Fahrradhandel;7;44
+ZE-002;ZEG – Test Agent;Der persönliche Besuch ist vorerst nur eine Überlegung. Heute möchte ich noch nichts vereinbaren.;none;Fahrradhandel;14;97
+ZE-003;ZEG – Test Agent;Ich würde lieber vorbeikommen und das persönlich besprechen. ;calendar;Fahrradhandel;8;61
+ZE-004;ZEG – Test Agent;Freitag war die Verabredung mit meiner Freundin. Da hab ich was durcheinandergebracht. Dann nichts vereinbaren;none;Fahrradhandel;15;110
+ZE-005;ZEG – Test Agent;Freitag kann ich ab vier. Würden Sie bitte nach einem freien Termin bei Ihnen schauen? Falls da nichts mehr geht, wäre die Woche danach auch möglich.;calendar;Fahrradhandel;26;149
+ZE-006;ZEG – Test Agent;Freitag habe ich am Nachmittag frei. Könnt ihr einmal schauen, ob dann ein Termin für mich möglich ist?;calendar;Fahrradhandel;18;103
+ZE-007;ZEG – Test Agent;Dienstagvormittag passt uns beiden. Bitte vereinbart einen gemeinsamen Termin für meinen Mann und mich.;calendar;Fahrradhandel;14;103
+ZE-008;ZEG – Test Agent;Mein Mann kommt mit. Wir möchten einen gemeinsamen Termin buchen.;calendar;Fahrradhandel;10;65
+ZE-009;ZEG – Test Agent;Wir warten mit der Buchung auf meinen Mann.;none;Fahrradhandel;8;43
+ZE-010;ZEG – Test Agent;Bei mir ist der Tag nicht so wichtig. Schaut einfach nach dem nächsten freien Termin für mich.;calendar;Fahrradhandel;17;94
+ZE-011;ZEG – Test Agent;Meine eigenen freien Tage stehen noch nicht fest. Bitte noch keinen Termin suchen.;none;Fahrradhandel;13;82
+ZE-012;ZEG – Test Agent;Es muss kein bestimmter Wochentag sein. Hauptsache, ich kann möglichst bald bei Ihnen vorbeikommen. Welche freie Möglichkeit finden Sie als Nächstes in Ihrem Kalender?;calendar;Fahrradhandel;24;167
+ZE-013;ZEG – Test Agent;Vormittags wäre wahrscheinlich besser, aber das muss ich erst noch zu Hause abstimmen. Ich möchte jetzt weder freie Zeiten prüfen lassen noch einen Termin festlegen. Wir bleiben erst einmal dabei.;none;Fahrradhandel;30;196
+ZE-014;ZEG – Test Agent;"Ich meinte vormittags statt nachmittags. Sucht bitte nächste Woche etwas vor zwölf; gebucht ist noch nichts.";calendar;Fahrradhandel;16;108
+ZE-015;ZEG – Test Agent;Lieber vormittags. Welche freien Termine gibt es nächste Woche?;calendar;Fahrradhandel;9;63
+ZE-016;ZEG – Test Agent;Die Entscheidung steht: Ich möchte einen Termin bei Ihnen vereinbaren. Bisher habe ich weder online noch telefonisch etwas gebucht, wir würden also ganz von vorne anfangen.;calendar;Fahrradhandel;26;172
+ZE-017;ZEG – Test Agent;Ich habe mich entschieden und würde jetzt gern einen Termin bei euch buchen. Bisher ist noch nichts vereinbart.;calendar;Fahrradhandel;18;111
+ZE-018;ZEG – Test Agent;Mit der Buchung warte ich noch.;none;Fahrradhandel;6;31
+ZE-019;ZEG – Test Agent;Geht es eher am Montag oder Donnerstag? Bitte prüfen Sie freie Termine.;calendar;Fahrradhandel;12;71
+ZE-020;ZEG – Test Agent;Montag oder Donnerstag ging es um meinen Zahnarzt, nicht um einen Termin bei euch.;none;Fahrradhandel;14;82
+ZE-021;ZEG – Test Agent;Montag oder Donnerstag könnte ich es einrichten. Mir wäre wichtig, dass Sie einmal nachsehen, an welchem der beiden Tage ein Termin frei ist. Ich bin zeitlich flexibel.;calendar;Fahrradhandel;27;168
+ZE-022;ZEG – Test Agent;Die Bedingungen zur Probefahrt kenne ich schon.;none;Fahrradhandel;7;47
+ZE-023;ZEG – Test Agent;Ich möchte noch keinen Termin vereinbaren. Mich interessiert zunächst, ob eine Probefahrt bei euch grundsätzlich möglich ist und was dabei zu beachten wäre. Wie sind dafür eure allgemeinen Bedingungen?;knowledge-base;Fahrradhandel;29;201
+ZE-024;ZEG – Test Agent;Kann man eure Fahrräder vor dem Kauf ausprobieren?;knowledge-base;Fahrradhandel;8;50
+ZE-025;ZEG – Test Agent;Muss man für eine Beratung bei euch vorher etwas vereinbaren, oder kann man ohne Termin kommen?;knowledge-base;Fahrradhandel;16;95
+ZE-026;ZEG – Test Agent;Kann ich für die Beratung spontan vorbeikommen oder muss ich einen Termin vereinbaren?;knowledge-base;Fahrradhandel;13;86
+ZE-027;ZEG – Test Agent;Alles klar, wie das mit den Beratungsterminen läuft, weiß ich jetzt.;none;Fahrradhandel;11;68
+ZE-028;ZEG – Test Agent;Gibt es Parkplätze bei euch?;knowledge-base;Fahrradhandel;5;28
+ZE-029;ZEG – Test Agent;Den Parkplatz habe ich gefunden, alles gut.;none;Fahrradhandel;7;43
+ZE-030;ZEG – Test Agent;Für die Anfahrt mit dem Auto: Welche Parkmöglichkeiten gibt es bei euch?;knowledge-base;Fahrradhandel;12;72
+ZE-031;ZEG – Test Agent;Also hier stehen ja die Öffnungszeiten. Die schreibe ich mir kurz auf.;none;Fahrradhandel;12;70
+ZE-032;ZEG – Test Agent;Ich möchte meine Woche planen und brauche dafür eure regulären Öffnungszeiten. ;knowledge-base;Fahrradhandel;11;79
+ZE-033;ZEG – Test Agent;Zu welchen Zeiten habt ihr geöffnet?;knowledge-base;Fahrradhandel;6;36
+ZE-034;ZEG – Test Agent;Bei einem Kinderfahrrad ist mir die Prüfung wichtig. Welche Informationen habt ihr zur TÜV-Prüfung eurer Räder?;knowledge-base;Fahrradhandel;16;111
+ZE-035;ZEG – Test Agent;Bei Kinderfahrrädern ist mir eine Prüfung wichtig. Welche Angaben habt ihr zur TÜV-Prüfung eurer Räder?;knowledge-base;Fahrradhandel;15;103
+ZE-036;ZEG – Test Agent;Die Angaben zur TÜV-Prüfung liegen vor mir. Gebt mir einen Moment zum Lesen.;none;Fahrradhandel;13;76
+IM-001;Surfers Immobilien;Das möchte ich persönlich besprechen. Vereinbaren wir einen Termin?;calendar;Immobilien;9;67
+IM-002;Surfers Immobilien;Am Telefon ist das schwierig zu erklären, aber für einen persönlichen Besuch bin ich noch nicht bereit.;none;Immobilien;17;103
+IM-003;Surfers Immobilien;Können wir einen Termin für ein persönliches Gespräch vor Ort festmachen?;calendar;Immobilien;11;73
+IM-004;Surfers Immobilien;Das mit dem Termin nächste Woche ist hinfällig.;none;Immobilien;8;47
+IM-005;Surfers Immobilien;Nächste Woche habe ich Urlaub und könnte mir Zeit nehmen. Sehen Sie bitte nach einem freien Termin. Vormittags wäre schön, nachmittags geht aber auch.;calendar;Immobilien;24;150
+IM-006;Surfers Immobilien;Nächste Woche kann ich mir Zeit nehmen. Welche freien Termine gibt es dann?;calendar;Immobilien;13;75
+IM-007;Surfers Immobilien;Ich war bisher noch nicht bei Ihnen und würde jetzt gern einen ersten Termin vereinbaren.;calendar;Immobilien;15;89
+IM-008;Surfers Immobilien;Ich brauche erstmals einen Termin;calendar;Immobilien;5;33
+IM-009;Surfers Immobilien;Zum ersten Besuch habe ich mich noch nicht entschieden. ;none;Immobilien;9;56
+IM-010;Surfers Immobilien;Vor sechzehn Uhr schaffe ich es nicht. Können Sie schauen, ob danach ein Termin frei ist?;calendar;Immobilien;16;89
+IM-011;Surfers Immobilien;Ab vier hab ich meistens Zeit. Ich muss erst mal schauen, welcher Tag passt, und melde mich dann.;none;Immobilien;18;97
+IM-012;Surfers Immobilien;Vor vier komme ich nicht von der Arbeit weg. Haben Sie danach einen Termin frei? Der Tag ist mir egal.;calendar;Immobilien;20;102
+IM-013;Surfers Immobilien;Dienstag bleibt frei. Ich möchte nichts vereinbaren.;none;Immobilien;7;52
+IM-014;Surfers Immobilien;Ich habe am Dienstag einen freien Vormittag und würde den gern für einen Termin bei Ihnen nutzen. Schauen Sie nach einer freien Uhrzeit? Noch ist nichts gebucht.;calendar;Immobilien;27;161
+IM-015;Surfers Immobilien;Dienstagvormittag bin ich frei. Was hätten Sie da noch?;calendar;Immobilien;9;55
+IM-016;Surfers Immobilien;Ich würde gern möglichst bald vorbeikommen. Was wäre denn der nächste freie Termin? Ich bin zeitlich flexibel.;calendar;Immobilien;17;110
+IM-017;Surfers Immobilien;Ich würde das lieber persönlich mit Ihnen besprechen. Können wir dafür etwas ausmachen?;calendar;Immobilien;13;87
+IM-018;Surfers Immobilien;Ich spreche erst mal mit meiner Familie, wann es bei uns allen passt. Mein Mann möchte auch dabei sein. Sobald wir uns abgestimmt haben, sage ich Bescheid;none;Immobilien;27;154
+IM-019;Surfers Immobilien;Für meine Partnerin und mich möchten wir einen Termin vereinbaren.;calendar;Immobilien;10;66
+IM-020;Surfers Immobilien;Meine Partnerin und ich haben zwar über ein gemeinsames Gespräch bei Ihnen gesprochen, aber unsere Zeitplanung steht noch nicht. Solange das offen ist, möchten wir ausdrücklich keinen Termin suchen oder vereinbaren lassen.;none;Immobilien;32;222
+IM-021;Surfers Immobilien;Meine Partnerin soll beim Gespräch dabei sein. Wir haben uns beide den Freitag freigehalten und würden nun gern einen gemeinsamen Termin bei Ihnen festmachen. Helfen Sie uns dabei?;calendar;Immobilien;28;180
+SC-001;Schreinerei Surfers;Für die Mitmachwerkstatt möchte ich einen Termin vereinbaren.;calendar;Handwerk / Schreinerei;8;61
+SC-002;Schreinerei Surfers;Die Werkstattplanung liegt bei mir vorerst auf Eis.;none;Handwerk / Schreinerei;8;51
+SC-003;Schreinerei Surfers;Für die Mitmachwerkstatt steht meine Entscheidung fest. Können wir einen Termin vereinbaren?;calendar;Handwerk / Schreinerei;12;92
+SC-004;Schreinerei Surfers;Nächste Woche klappt es doch nicht. Bitte keine freien Termine mehr heraussuchen.;none;Handwerk / Schreinerei;12;81
+SC-005;Schreinerei Surfers;Ich habe nächste Woche etwas Luft und könnte bei Ihnen vorbeikommen. Bitte sehen Sie nach, wann ein Termin frei wäre. Montag passt mir allerdings überhaupt nicht.;calendar;Handwerk / Schreinerei;26;162
+SC-006;Schreinerei Surfers;Ich hätte nächste Woche etwas Zeit. Schauen Sie bitte, ob bei Ihnen noch ein Termin frei ist.;calendar;Handwerk / Schreinerei;17;93
+SC-007;Schreinerei Surfers;Zeigen wäre einfacher als Erklären. Können wir dafür einen persönlichen Termin bei Ihnen ausmachen?;calendar;Handwerk / Schreinerei;14;99
+SC-008;Schreinerei Surfers;Lassen Sie uns das vor Ort besprechen und einen Termin ausmachen.;calendar;Handwerk / Schreinerei;11;65
+SC-009;Schreinerei Surfers;Vielleicht komme ich später einmal persönlich vorbei, weil sich mein Anliegen so besser erklären lässt. Das ist aber noch keine feste Entscheidung. ;none;Handwerk / Schreinerei;22;148
+SC-010;Schreinerei Surfers;Nachmittags bin ich verplant. Gibt es für die Mitmachwerkstatt nächste Woche freie Termine am Vormittag?;calendar;Handwerk / Schreinerei;15;104
+SC-011;Schreinerei Surfers;Vormittags fällt aus, die Werkstattplanung ist vertagt.;none;Handwerk / Schreinerei;7;55
+SC-012;Schreinerei Surfers;Meine Nachmittage sind verplant, morgens bin ich flexibel. Könnten Sie nach freien Terminen für die Mitmachwerkstatt am Vormittag suchen? ;calendar;Handwerk / Schreinerei;19;138
+SC-013;Schreinerei Surfers;Mein Bruder und ich überlegen noch. Eine Werkstattbuchung steht derzeit nicht an.;none;Handwerk / Schreinerei;12;81
+SC-014;Schreinerei Surfers;Sara und ich möchten zusammen in die Mitmachwerkstatt kommen. Einen Termin haben wir noch nicht. Würden Sie mit uns eine passende Möglichkeit für zwei Personen finden?;calendar;Handwerk / Schreinerei;26;167
+SC-015;Schreinerei Surfers;Wir wären zu zweit. Können wir einen Werkstatttermin buchen?;calendar;Handwerk / Schreinerei;9;60
+SC-016;Schreinerei Surfers;Donnerstag bin ich ohnehin in der Nähe und könnte zu Ihnen kommen. Können Sie prüfen, ob an diesem Tag ein Termin verfügbar ist? Die Uhrzeit kann ich anpassen.;calendar;Handwerk / Schreinerei;28;159
+SC-017;Schreinerei Surfers;Könnten Sie nach einem freien Termin am Donnerstagschauen?;calendar;Handwerk / Schreinerei;8;58
+SC-018;Schreinerei Surfers;Am Dienstag fahre ich zwar an Ihrer Gegend vorbei, habe aber andere Dinge zu erledigen. ;none;Handwerk / Schreinerei;15;88
+SC-019;Schreinerei Surfers;Nicht nur informieren: Ich möchte tatsächlich einen Termin buchen.;calendar;Handwerk / Schreinerei;9;66
+SC-020;Schreinerei Surfers;Buchen war ein Versprecher.;none;Handwerk / Schreinerei;4;27
+SC-021;Schreinerei Surfers;Zuerst wollte ich mich nur erkundigen. Inzwischen habe ich mich entschieden und würde gern einen Termin bei Ihnen festmachen. Was brauchen Sie von mir für die Vereinbarung?;calendar;Handwerk / Schreinerei;27;172
+ME-001;Surfers Medical;Einen Termin in Ihrer Praxis würde ich gern vereinbaren.;calendar;Arztpraxis;9;56
+ME-002;Surfers Medical;Einen Praxisbesuch plane ich noch nicht fest. Bitte heute keinen Termin vereinbaren.;none;Arztpraxis;12;84
+ME-003;Surfers Medical;Ich würde mein Anliegen gern persönlich in der Praxis besprechen. Können wir dafür einen Termin ausmachen? Ich kann mich zeitlich etwas nach Ihnen richten.;calendar;Arztpraxis;24;155
+ME-004;Surfers Medical;Ich dachte, dass ich nächste Woche wieder in der Stadt wäre, bleibe aber doch noch unterwegs. Zum Termin komme ich nicht. ;none;Arztpraxis;21;122
+ME-005;Surfers Medical;Nächste Woche bin ich wieder in der Stadt. Schauen Sie bitte nach einem freien Termin in Ihrer Praxis. Der Tag ist mir egal, nur mittags kann ich schlecht.;calendar;Arztpraxis;28;155
+ME-006;Surfers Medical;Ist nächste Woche ein Praxistermin frei?;calendar;Arztpraxis;6;40
+ME-007;Surfers Medical;Ich könnte morgen oder übermorgen in die Praxis kommen und würde gern einen Termin vereinbaren. Können Sie die freien Zeiten für diese beiden Tage nachsehen?;calendar;Arztpraxis;25;157
+ME-008;Surfers Medical;Ich habe über den Termin vergessen. Kann ich einen neuen ausmachen?;calendar;Arztpraxis;11;67
+ME-009;Surfers Medical;Ich meinte meinen Privatbesuch, keinen Praxistermin.;none;Arztpraxis;6;52
+ME-010;Surfers Medical;Bitte machen Sie einen neuen Termin mit mir aus.;calendar;Arztpraxis;9;48
+ME-011;Surfers Medical;Ich habe mich versprochen. Einen neuen Termin brauche ich gerade überhaupt nicht.;none;Arztpraxis;12;81
+ME-012;Surfers Medical;Ich habe noch keinen Termin vereinbart und möchte jetzt einen buchen. ;calendar;Arztpraxis;11;70
+ME-013;Surfers Medical;Vor elf wäre für mich normalerweise günstig, aber ich habe derzeit gar keinen Terminbedarf. Das war nur eine Bemerkung zu meinem Tagesablauf. ;none;Arztpraxis;22;142
+ME-014;Surfers Medical;Ich muss spätestens um elf wieder los. Könnten Sie nach einem freien Termin am Vormittag suchen?;calendar;Arztpraxis;16;96
+ME-015;Surfers Medical;Welche freien Termine haben Sie vor fünfzehn Uhr?;calendar;Arztpraxis;8;49
+ME-016;Surfers Medical;Wegen meiner Arbeit komme ich erst am späten Nachmittag in die Praxis. Bitte schauen Sie nach einem verfügbaren Termin nach sechzehn Uhr. Nächste Woche wäre für mich passend.;calendar;Arztpraxis;28;174
+ME-017;Surfers Medical;Nach vier wäre gut. Ist dann noch etwas frei?;calendar;Arztpraxis;9;45
+ME-018;Surfers Medical;Doch kein Besuch nach vier. Terminsuche streichen.;none;Arztpraxis;7;50
+ME-019;Surfers Medical;Ich komme mit Begleitung. Können wir meinen Termin festlegen?;calendar;Arztpraxis;9;61
+ME-020;Surfers Medical;Ich habe noch ein paar Fragen. Bitte noch nichts vereinbaren.;none;Arztpraxis;10;61
+ME-021;Surfers Medical;Meine Schwester  begleitet mich.Wir möchten Dienstag oder Freitag buchen, wenn es möglich.;calendar;Arztpraxis;13;90
+CH-001;Schornsteinfeger – Outbound Beispiel;Welche Arbeiten übernimmt Ihr Schornsteinfegerbetrieb?;knowledge-base;Schornsteinfegerbetrieb;5;54
+CH-002;Schornsteinfeger – Outbound Beispiel;Ihr Leistungsangebot kenne ich inzwischen vollständig.;none;Schornsteinfegerbetrieb;6;54
+CH-003;Schornsteinfeger – Outbound Beispiel;Außer dem klassischen Schornsteinfegen: Welche weiteren Arbeiten bietet Ihr Betrieb grundsätzlich an?;knowledge-base;Schornsteinfegerbetrieb;12;101
+CH-004;Schornsteinfeger – Outbound Beispiel;meine Frau hat gerade auf Ihrer Website nachgeschaut. Unser Ort liegt wohl außerhalb Ihres Einsatzgebiets. Dann hat sich meine Frage schon geklärt, und wir schauen mal, wer bei uns in der Nähe ist.;none;Schornsteinfegerbetrieb;33;197
+CH-005;Schornsteinfeger – Outbound Beispiel;Bevor ich mich mit einem konkreten Auftrag befasse, würde ich gern Ihr Einsatzgebiet kennen. In welchen Orten oder Regionen arbeitet Ihr Betrieb?;knowledge-base;Schornsteinfegerbetrieb;22;145
+CH-006;Schornsteinfeger – Outbound Beispiel;In welchem Gebiet sind Sie unterwegs?;knowledge-base;Schornsteinfegerbetrieb;6;37
+CH-007;Schornsteinfeger – Outbound Beispiel;Für einen möglichen Besuch müsste ich meine Arbeitszeit planen. Ist meine persönliche Anwesenheit erforderlich, oder kann jemand anderes den Zugang ermöglichen?;knowledge-base;Schornsteinfegerbetrieb;21;160
+CH-008;Schornsteinfeger – Outbound Beispiel;Muss ich beim Schornsteinfegerbesuch selbst da sein, oder darf jemand anderes den Zugang ermöglichen?;knowledge-base;Schornsteinfegerbetrieb;14;101
+CH-009;Schornsteinfeger – Outbound Beispiel;Die Regel zur Anwesenheit habe ich verstanden und bereits mit meiner Familie besprochen.;none;Schornsteinfegerbetrieb;13;88
+CH-010;Schornsteinfeger – Outbound Beispiel;Wie lange dauert ein Besuch normalerweise?;knowledge-base;Schornsteinfegerbetrieb;6;42
+CH-011;Schornsteinfeger – Outbound Beispiel;Wie lange der Besuch dauert, wurde mir schon erklärt. Mein Zeitplan steht jetzt,;none;Schornsteinfegerbetrieb;13;80
+CH-012;Schornsteinfeger – Outbound Beispiel;Damit ich später ausreichend Zeit einplane: Wie lange dauert ein gewöhnlicher Besuch bei Ihnen?;knowledge-base;Schornsteinfegerbetrieb;14;95
+CH-013;Schornsteinfeger – Outbound Beispiel;Die Vorbereitung ist geklärt, ich habe die Hinweise.;none;Schornsteinfegerbetrieb;8;52
+CH-014;Schornsteinfeger – Outbound Beispiel;Ich möchte wissen, was man vor einem Besuch freiräumen oder bereitlegen sollte. Gibt es bestimmte Vorbereitungen, auf die Sie hinweisen? Ich möchte vermeiden, dass vor Ort erst noch alles organisiert werden muss.;knowledge-base;Schornsteinfegerbetrieb;32;212
+CH-015;Schornsteinfeger – Outbound Beispiel;Was sollte vor Ihrem Besuch vorbereitet sein?;knowledge-base;Schornsteinfegerbetrieb;7;45
+CH-016;Schornsteinfeger – Outbound Beispiel;Nach einem Schornsteinfegerbesuch bekommt man ja Unterlagen. Welche Dokumentation stellt Ihr Betrieb aus?;knowledge-base;Schornsteinfegerbetrieb;13;105
+CH-017;Schornsteinfeger – Outbound Beispiel;Welche Dokumentation bekomme ich nach einer Prüfung? Mir geht es um die üblichen Unterlagen.;knowledge-base;Schornsteinfegerbetrieb;14;92
+CH-018;Schornsteinfeger – Outbound Beispiel;Die Hinweise zu den Unterlagen habe ich gefunden. Einen Moment, ich lese sie kurz durch.;none;Schornsteinfegerbetrieb;15;88
+CH-019;Schornsteinfeger – Outbound Beispiel;Sind bei Ihnen grundsätzlich kurzfristige Termine möglich?;knowledge-base;Schornsteinfegerbetrieb;7;58
+CH-020;Schornsteinfeger – Outbound Beispiel;Meine Frage zu kurzfristigen Terminen wurde schon beantwortet.;none;Schornsteinfegerbetrieb;8;62
+CH-021;Schornsteinfeger – Outbound Beispiel;Wie viel Vorlauf brauchen Termine normalerweise?;knowledge-base;Schornsteinfegerbetrieb;6;48
+PI-001;PIABO;Welche Kommunikationsleistungen bietet PIABO an?;knowledge-base;PR / Kommunikation;5;48
+PI-002;PIABO;Euer Leistungsangebot habe ich inzwischen verstanden.;none;PR / Kommunikation;6;53
+PI-003;PIABO;Unser Unternehmen verschafft sich gerade einen Überblick über Agenturen. Welche Leistungen deckt PIABO ab? Ich möchte zunächst das Angebot verstehen und noch kein Projektgespräch oder einen Rückruf vereinbaren.;knowledge-base;PR / Kommunikation;28;210
+PI-004;PIABO;Zum Branchenfokus habe ich die Antwort gefunden. Eine Projektanfrage oder einen Rückruf brauche ich nicht.;none;PR / Kommunikation;15;106
+PI-005;PIABO;Wir vergleichen gerade, welche Agenturen Erfahrung in unserer Branche mitbringen. Welche Branchen stehen bei PIABO im Mittelpunkt? Es geht mir erst einmal um euren allgemeinen Fokus, nicht um eine konkrete Projektanfrage.;knowledge-base;PR / Kommunikation;31;221
+PI-006;PIABO;Wir vergleichen gerade Agenturen für unser Unternehmen. Auf welche Branchen konzentriert sich PIABO?;knowledge-base;PR / Kommunikation;13;100
+PI-007;PIABO;Ich habe Influencer Relations bei euren Leistungen gesehen. Welche Unterstützung gehört bei PIABO dazu?;knowledge-base;PR / Kommunikation;14;103
+PI-008;PIABO;Was bietet ihr im Bereich Influencer Relations?;knowledge-base;PR / Kommunikation;7;47
+PI-009;PIABO;Zum Thema Influencer Relations ist alles geklärt.;none;PR / Kommunikation;7;49
+PI-010;PIABO;Was macht PIABO im Bereich GEO?;knowledge-base;PR / Kommunikation;6;31
+PI-011;PIABO;Meine Erkundigung zu GEO ist nicht mehr aktuell, ich habe eure Beschreibung inzwischen gelesen und möchte sie erst mit dem Team besprechen.;none;PR / Kommunikation;22;139
+PI-012;PIABO;Wir beschäftigen uns mit Sichtbarkeit in generativen KI-Angeboten und sind dabei auf GEO gestoßen. Welche Leistungen bietet PIABO in diesem Bereich?;knowledge-base;PR / Kommunikation;21;148
+PI-013;PIABO;Die Karriereinformationen habe ich gerade geöffnet. Lasst mich einen Moment lesen, bevor ich weiterfrage.;none;PR / Kommunikation;14;105
+PI-014;PIABO;Ich interessiere mich für eine Tätigkeit bei euch und möchte mich erst einmal informieren. Wo bekomme ich Auskunft zu Karrieremöglichkeiten und dem Bewerbungsweg? ;knowledge-base;PR / Kommunikation;23;163
+PI-015;PIABO;Ich interessiere mich für eine Tätigkeit bei euch. Wo finde ich Informationen zu Karrieremöglichkeiten?;knowledge-base;PR / Kommunikation;14;103
+PI-016;PIABO;Vor einer möglichen Bewerbung interessiert mich, welche allgemeine Regelung PIABO zu Remote Work hat.;knowledge-base;PR / Kommunikation;14;101
+PI-017;PIABO;Wie ist mobiles Arbeiten bei euch geregelt?;knowledge-base;PR / Kommunikation;7;43
+PI-018;PIABO;Die Regelung zu Remote Work ist mir jetzt bekannt. Ich habe dazu keine weitere Frage ;none;PR / Kommunikation;15;85
+PI-019;PIABO;Hat PIABO einen eigenen Podcast?;knowledge-base;PR / Kommunikation;5;32
+PI-020;PIABO;Podcast ist mir nicht interessant;none;PR / Kommunikation;5;33
+PI-021;PIABO;Ich höre unterwegs gern Podcasts und habe gesehen, dass PIABO dieses Thema aufführt. Welche Informationen gibt es zu eurem Podcast und seinen Inhalten?;knowledge-base;PR / Kommunikation;23;151

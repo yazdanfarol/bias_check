@@ -1,0 +1,23 @@
+﻿skill;branche;items;mean_words;median_words;min_words;p25_words;p75_words;max_words;mean_characters
+calendar;Arztpraxis;14;14.7;11.0;6;9.0;22.0;28;90.2
+calendar;Fahrradhandel;14;16.6;16.5;7;10.5;22.5;27;105.6
+calendar;Handwerk / Schreinerei;14;16.4;14.5;8;9.5;24.2;28;106.9
+calendar;Handwerk / Töpferei;14;16.5;15.0;7;11.5;23.2;26;99.0
+calendar;Immobilien;14;15.5;14.0;5;10.2;19.2;28;95.5
+forwarding;Handwerk / Töpferei;16;17.0;16.0;6;12.5;21.2;29;113.1
+forwarding;Smart Metering;24;14.2;13.0;5;8.0;21.0;28;98.8
+knowledge-base;Beschaffung / E-Commerce;16;16.1;14.0;6;8.0;23.5;31;117.7
+knowledge-base;Fahrradhandel;20;12.1;12.5;5;7.5;14.2;29;81.1
+knowledge-base;Handwerk / Töpferei;12;16.0;13.0;7;10.0;24.8;29;104.8
+knowledge-base;PR / Kommunikation;14;15.1;14.0;5;7.0;22.5;31;107.2
+knowledge-base;Schornsteinfegerbetrieb;14;12.8;12.5;5;6.2;14.0;32;92.5
+knowledge-base;Smart Metering;14;14.9;14.0;5;7.2;19.5;31;109.7
+none;Arztpraxis;7;12.9;12.0;6;8.5;16.5;22;84.6
+none;Beschaffung / E-Commerce;8;14.6;12.5;7;8.8;18.0;28;100.2
+none;Fahrradhandel;17;12.5;13.0;6;8.0;14.0;30;78.8
+none;Handwerk / Schreinerei;7;11.4;12.0;4;7.5;13.5;22;75.9
+none;Handwerk / Töpferei;21;15.0;13.0;7;9.0;15.0;30;96.4
+none;Immobilien;7;16.9;17.0;7;8.5;22.5;32;104.4
+none;PR / Kommunikation;7;12.0;14.0;5;6.5;15.0;22;81.4
+none;Schornsteinfegerbetrieb;7;13.7;13.0;6;8.0;14.0;33;88.7
+none;Smart Metering;19;10.1;8.0;6;8.0;12.5;19;65.0
